@@ -24,7 +24,7 @@ A shapeshifting creature that reads the deepest desires and loves in a person's 
 **Condition Immunities:** Charmed  
 **Senses:** Darkvision 60 ft., passive Perception 14  
 **Languages:** All languages understood by creatures whose form it assumes, telepathy 60 ft.  
-**Challenge:** 5 (1,800 XP)
+**Challenge:** 7 (2,900 XP)
 
 ### Traits
 
@@ -150,17 +150,17 @@ Unknown, possibly:
 
 ## Encounter Design
 
-### Level 3-5 Party (CR 5)
+### Level 5-7 Party (CR 7)
 - Single Beloved is serious threat
 - May cause permanent character trauma
 - Good climactic encounter
 
-### Level 6-8 Party
+### Level 8-10 Party
 - Single Beloved is moderate threat
 - May work with other creatures
 - Psychological warfare support role
 
-### Level 9+ Party
+### Level 11+ Party
 - Use multiple Beloveds
 - Or upgrade to Greater Beloved (see variants)
 - Pair with physically threatening enemies

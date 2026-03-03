@@ -13,7 +13,7 @@ Some monsters in this collection involve **psychological horror**, themes of **g
 ## Index
 
 ### [The Beloved](./the_beloved/the_beloved.md)
-*Medium aberration (shapechanger), neutral evil — CR 5*
+*Medium aberration (shapechanger), neutral evil — CR 7*
 
 A creature that reads the deepest emotional attachments of those it encounters and transforms into whoever they love most — a dead spouse, a missing child, a lost comrade. Unlike a Boggart which weaponises fear, the Beloved weaponises love. Nearly impossible to fight something wearing your dead wife's face.
 
